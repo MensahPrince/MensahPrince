@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Mensah Nana Prince
 - 👀 I’m interested in software development, 3d, and A.I.
-- 🌱 I’m currently learning Django, almost a pro though.
+- 😎 I work with Django, React, PyQt5
+- 😩 I speak Python, JavaScript, C++
+- 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on anyproject that would push me in my feild of interest
 - 📫 Reach me on burnszephyr520@gmail.com. 
 
