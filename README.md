@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, 3d, and A.I.
 - 😎 I work with Django, React, PyQt5, NextJs
 - 😩 I speak Python, JavaScript, C++, GOlang.
-- 🌱 I’m currently learning about 3d rendering with C++.
+- 🌱 I’m currently learning Rust,
 - 💞️ I’m looking to collaborate on anyproject that would push me in my feild of interest
 - 📫 Reach me on burnszephyr520@gmail.com. 
 
