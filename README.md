@@ -4,7 +4,7 @@
 - 😩 I speak Python, JavaScript, C++, GOlang.
 - 🌱 I’m currently learning Rust,
 - 💞️ I’m looking to collaborate on anyproject that would push me in my feild of interest
-- 📫 Reach me on burnszephyr520@gmail.com. 
+- 📫 Reach me on mensahp5888@gmail.com. 
 
   
 - ⚡ Fun fact: Did you know that Wombat poop is cube-shaped ? Yup. Check it up.
