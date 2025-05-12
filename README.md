@@ -3,7 +3,7 @@
 - 😎 I work with Django, React, PyQt5, NextJs
 - 😩 I speak Python, JavaScript, C++, GOlang.
 - 🌱 I’m currently learning Rust,
-- 💞️ I’m looking to collaborate on anyproject that would push me in my feild of interest
+- 💞️ I’m looking to collaborate on any project that would push me in my field of interest
 - 📫 Reach me on mensahp5888@gmail.com. 
 
   
