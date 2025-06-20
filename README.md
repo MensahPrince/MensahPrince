@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mensah Nana Prince
-- 👀 I’m interested in software development, 3d, and A.I.
+- 👀 I’m interested in systems app development, web development and 3d .
 - 😎 I work with Django, React, PyQt5, NextJs
 - 😩 I speak Python, JavaScript, C++, GOlang.
 - 🌱 I’m currently learning Rust,
