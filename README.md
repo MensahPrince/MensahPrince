@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mensah Nana Prince
+- 👋 Hi, I’m @Mensah Nana Prince. You may know me as CodeMesh.
+-    Yokoso. Welcome to my Repository.
 - 👀 I’m interested in systems app development, web development and 3d .
 - 😎 I work with Django, React, PyQt5, NextJs
 - 😩 I speak Python, JavaScript, C++, GOlang.
