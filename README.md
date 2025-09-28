@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Rust,
 - 💞️ I’m looking to collaborate on any project that would push me in my field of interest
 - 📫 Reach me on mensahp5888@gmail.com.
-- Visit my site on https://www.codemesh3d.vercel.app
-
+- Visit my site on [https://www.codemesh3d.vercel.app
+](https://codemesh3d.vercel.app/)
   
 - ⚡ Fun fact: Did you know that Wombat poop is cube-shaped ? Yup. Check it up.
 
